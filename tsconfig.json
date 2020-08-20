@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		// DOM is necessary for TextEncoder / TextDecoder
+		"lib": ["ES2020", "DOM"],
+		"target": "ES2019",
+		"strict": true,
+		"module": "CommonJS",
+		"declaration": true,
+		"outDir": "dist"
+	},
+	"include": ["src/**/*.ts"]
+}

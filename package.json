@@ -1,0 +1,18 @@
+{
+	"name": "mcping",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/status.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jspack": "0.0.4"
+	},
+	"devDependencies": {
+		"@types/node": "^14.6.0"
+	}
+}
