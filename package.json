@@ -8,7 +8,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC",
+	"license": "MIT",
 	"dependencies": {
 		"jspack": "0.0.4"
 	},
